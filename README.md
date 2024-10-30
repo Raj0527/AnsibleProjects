@@ -18,7 +18,7 @@ Welcome to my Ansible practice project portfolio! In this repository, I've docum
 10. [Implementing Ansible Roles](#implementing-ansible-roles)
 
 
-1. Installation and Configuration of Ansible
+## 1. Installation and Configuration of Ansible
 In this section, I have performed the installation and configuration of Ansible on a control machine. The steps involved include:
 
 Installing Ansible on a Linux distribution (e.g., Ubuntu).
