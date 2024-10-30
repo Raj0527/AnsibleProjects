@@ -18,7 +18,7 @@ Welcome to my Ansible practice project portfolio! In this repository, I've docum
 10. [Implementing Ansible Roles](#implementing-ansible-roles)
 
 
-## 1. Installation and Configuration of Ansible
+
 In this section, I have performed the installation and configuration of Ansible on a control machine. The steps involved include:
 
 Installing Ansible on a Linux distribution (e.g., Ubuntu).
@@ -103,4 +103,8 @@ Conclusion
 Through these projects, I have demonstrated proficiency in various aspects of Ansible, from basic installations to advanced features like Ansible Vault, Jinja2 templates, and roles. These skills are crucial for automating infrastructure, ensuring consistency, and enhancing scalability.
 
 Feel free to explore the projects and reach out if you have any questions!
+
+
+
+## Installation and Configuration of Ansible
 
