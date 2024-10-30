@@ -4,18 +4,20 @@
 
 Welcome to my Ansible practice project portfolio! In this repository, I've documented and showcased my hands-on experience with Ansible, covering various critical aspects of automation and configuration management. These projects demonstrate my ability to effectively utilize Ansible for automating infrastructure tasks, managing configurations, and streamlining deployments.
 
-Table of Contents
-1.Installing Ansible on a Linux distribution (#installation-and-configuration-of-ansible)
+## Table of Contents
 
-Exploring Ad-Hoc Commands
-Implementing Ansible Playbook
-Exploring Ansible Playbooks
-Implementing Ansible Variables
-Task Inclusion
-Implementing Ansible Vault
-Working with Ansible Functions
-Implementing Jinja2 Templates
-Implementing Ansible Roles
+1. [Installation and Configuration of Ansible](#installation-and-configuration-of-ansible)
+2. [Exploring Ad-Hoc Commands](#exploring-ad-hoc-commands)
+3. [Implementing Ansible Playbook](#implementing-ansible-playbook)
+4. [Exploring Ansible Playbooks](#exploring-ansible-playbooks)
+5. [Implementing Ansible Variables](#implementing-ansible-variables)
+6. [Task Inclusion](#task-inclusion)
+7. [Implementing Ansible Vault](#implementing-ansible-vault)
+8. [Working with Ansible Functions](#working-with-ansible-functions)
+9. [Implementing Jinja2 Templates](#implementing-jinja2-templates)
+10. [Implementing Ansible Roles](#implementing-ansible-roles)
+
+
 1. Installation and Configuration of Ansible
 In this section, I have performed the installation and configuration of Ansible on a control machine. The steps involved include:
 
