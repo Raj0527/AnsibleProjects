@@ -5,7 +5,7 @@
 Welcome to my Ansible practice project portfolio! In this repository, I've documented and showcased my hands-on experience with Ansible, covering various critical aspects of automation and configuration management. These projects demonstrate my ability to effectively utilize Ansible for automating infrastructure tasks, managing configurations, and streamlining deployments.
 
 Table of Contents
-Installation and Configuration of Ansible
+#installation-and-configuration-of-ansible
 Exploring Ad-Hoc Commands
 Implementing Ansible Playbook
 Exploring Ansible Playbooks
